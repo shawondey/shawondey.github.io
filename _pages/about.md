@@ -9,34 +9,24 @@ redirect_from:
 
 I am an **Assistant Professor in the Klipsch School of Electrical and Computer Engineering at New Mexico State University (NMSU)**.
 
-My research broadly focuses on **control systems, robotics and autonomous systems, multi-agent systems, game theory, and artificial intelligence**. I am particularly interested in developing intelligent, safe, and scalable decision-making and control methods for autonomous systems.
+My research broadly lies at the intersection of **control systems, robotics and autonomous systems, multi-agent systems, game theory and decision-making, and artificial intelligence**. My work spans both theoretical developments and practical applications in **aerial and ground robotic systems, multi-agent systems, and other complex engineered systems**.
 
-My research applications include **aerial and ground robotic systems, multi-robot coordination, UAV swarms, and safety-critical autonomous systems**.
+Before joining NMSU, I was a **Postdoctoral Research Fellow at Embry-Riddle Aeronautical University**, where I contributed to a **NASA University Leadership Initiative (ULI)** project on safety-aware learning and assured autonomy for aviation applications. I received my **Ph.D. in Electrical Engineering from the University of Nevada, Reno**, my **M.S. in Electrical Engineering from South Dakota Mines**, and my **B.S. in Applied Physics and Electronic Engineering from the University of Rajshahi, Bangladesh**.
 
 ## Research Interests
 
-My current research interests include:
+My research interests broadly include:
 
-- **Control Systems** — nonlinear, optimal, adaptive, and safety-critical control
-- **Robotics and Autonomous Systems** — intelligent control and decision-making for UAVs and ground robots
-- **Multi-Agent Systems** — distributed coordination, large-scale multi-agent systems, and swarm autonomy
-- **Game Theory** — mean-field games, hierarchical games, and game-theoretic decision-making
-- **Artificial Intelligence** — reinforcement learning and learning-based control
-- **Safe and Resilient Autonomy** — control barrier functions, safe learning, and autonomy under uncertainty
-
-## Research Vision
-
-My long-term research goal is to develop **intelligent, scalable, and safety-assured autonomous systems** that can operate reliably in complex and uncertain environments. I am particularly interested in combining rigorous control-theoretic methods with learning and game-theoretic approaches to address challenges arising in large-scale autonomous and multi-agent systems.
+- **Control Systems**
+- **Robotics and Autonomous Systems**
+- **Multi-Agent Systems**
+- **Game Theory and Decision-Making**
+- **Learning-Based Control**
+- **Intelligent Systems**
+- **Artificial Intelligence**
 
 ## Prospective Students
 
-I am looking for motivated students interested in pursuing research in areas including **control systems, robotics, autonomous systems, multi-agent systems, reinforcement learning, game theory, and safety-critical autonomy**.
+I am looking for motivated students interested in research in **control systems, robotics and autonomous systems, multi-agent systems, game theory, artificial intelligence, and related areas**.
 
-Prospective Ph.D. students with backgrounds in **electrical engineering, computer engineering, mechanical engineering, robotics, or related areas** are encouraged to contact me by email.
-
-## Current Appointment
-
-**Assistant Professor**  
-Klipsch School of Electrical and Computer Engineering  
-New Mexico State University  
-Las Cruces, New Mexico
+Prospective Ph.D. students with backgrounds in **electrical engineering, computer engineering, mechanical engineering, robotics, or related fields** are encouraged to contact me by email with a brief description of their research interests and background.
