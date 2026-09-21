@@ -6,7 +6,7 @@ author_profile: true
 
 ## Principal Investigator
 
-Shawon Dey, Ph.D.
+Shawon Dey
 
 ## Graduate Students
 
