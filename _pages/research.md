@@ -4,20 +4,16 @@ title: "Research"
 author_profile: true
 ---
 
-Our research focuses on developing intelligent, scalable, and reliable decision-making and control methods for complex autonomous and engineered systems. We work at the intersection of control, artificial intelligence, and multi-agent decision-making, with applications to aerial and ground robotic systems.
+## Multi-Agent Systems
 
-## Large-Scale and Multi-Agent Systems
+We study decision-making, coordination, and control in networked and large-scale multi-agent systems. A central focus is the development of scalable and distributed methods that allow multiple autonomous agents to cooperate, compete, and accomplish shared or individual objectives under limited information and uncertainty. Our research draws on control theory, game theory, optimization, and learning to address problems such as distributed coordination, cooperative and competitive decision-making, formation and swarm behavior, and large-scale multi-agent optimization. Applications include multi-robot and networked autonomous systems involving aerial and ground robotic platforms.
 
-We study complex large-scale multi-agent systems, with an emphasis on effective, scalable, and distributed decision-making and control. Our work leverages methods from optimal and adaptive control, game theory, optimization, and reinforcement learning to address challenges associated with coordination, scalability, uncertainty, and interactions among large numbers of agents.
+
+## Optimal and Learning-Based Control
+
+We develop control and decision-making methods for complex dynamical systems by combining model-based optimization with data-driven and learning-based approaches. Our research investigates how optimal control, adaptive control, reinforcement learning, and related computational methods can be used to improve performance and adaptability when accurate models or complete environmental information are not available. An important aspect of this work is understanding how learning can complement established control and optimization methods rather than replacing them. We are interested in methods that balance performance, computational requirements, model knowledge, and adaptability for autonomous and robotic systems.
+
 
 ## Safe and Resilient Autonomous Systems
 
-We investigate safety and resilience in autonomous systems operating in uncertain, dynamic, and unstructured environments. Our work focuses on aerial and ground robotic platforms and aims to enable reliable real-time decision-making under model uncertainty, disturbances, system degradation, and other operational challenges. We integrate control-theoretic safety methods with artificial intelligence techniques to improve the robustness, adaptability, and autonomy of robotic systems.
-
-## Simulation-to-Real Autonomous Systems
-
-We are interested in bridging the gap between algorithm development, simulation, and deployment on real robotic systems. Our work includes the design, simulation, and experimental validation of control and learning algorithms on aerial and ground robotic platforms.
-
-We use laboratory robotic systems, including UAVs, ground robots, and multi-robot platforms, to evaluate algorithms under realistic sensing, computation, communication, and environmental constraints. Our research also includes simulation-to-real transfer, hardware-in-the-loop evaluation, onboard implementation, and experimental validation.
-
-The broader goal is to develop methods that are theoretically sound, computationally practical, and capable of reliable deployment on real autonomous systems.
+We investigate methods for enabling autonomous systems to operate reliably in uncertain, dynamic, and unstructured environments. Our research considers safety and resilience in the presence of model uncertainty, external disturbances, changing operating conditions, limited control authority, and other system or environmental constraints. We combine control-theoretic safety and stability methods with optimization and learning to develop autonomous decision-making and control strategies that can adapt to changing conditions while respecting operational requirements. Current applications include aerial and ground robotic systems and other safety-critical autonomous platforms.
