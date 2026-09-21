@@ -12,18 +12,18 @@ author_profile: true
 
 ### New Mexico State University
 
-- EE 492 — Introduction to Control Systems, Instructor, Fall 2026
+- EE 492: Introduction to Control Systems, Instructor, Fall 2026
 
 ### Embry-Riddle Aeronautical University
 
-- AE 434 — Spacecraft Control, Instructor, Spring 2026
+- AE 434: Spacecraft Control, Instructor, Spring 2026
 
 ### University of Nevada, Reno
 
-- EE 471 — Control Systems II, Co-Lecturer, Fall 2024
-- EE 776 — Nonlinear Control Systems, Co-Lecturer, Spring 2023 and Spring 2024
-- EE 370L — Control Systems Laboratory, Teaching Assistant, Spring 2024
-- EE 220 — Circuits I, Teaching Assistant, Fall 2024
+- EE 471: Control Systems II, Co-Lecturer, Fall 2024
+- EE 776: Nonlinear Control Systems, Co-Lecturer, Spring 2023 and Spring 2024
+- EE 370L: Control Systems Laboratory, Teaching Assistant, Spring 2024
+- EE 220: Circuits I, Teaching Assistant, Fall 2024
 
 
 ## Professional Service
